@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundApiCallWithInterval", "BackgroundApiCallWithInterval\BackgroundApiCallWithInterval.csproj", "{88BE0A7F-C252-4D92-A116-4FAE55F30666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88BE0A7F-C252-4D92-A116-4FAE55F30666}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{88BE0A7F-C252-4D92-A116-4FAE55F30666}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{88BE0A7F-C252-4D92-A116-4FAE55F30666}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{88BE0A7F-C252-4D92-A116-4FAE55F30666}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{88BE0A7F-C252-4D92-A116-4FAE55F30666}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{88BE0A7F-C252-4D92-A116-4FAE55F30666}.Debug|iPhone.Build.0 = Debug|iPhone
+		{88BE0A7F-C252-4D92-A116-4FAE55F30666}.Release|iPhone.ActiveCfg = Release|iPhone
+		{88BE0A7F-C252-4D92-A116-4FAE55F30666}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A44ED97F-5DE1-4E0F-89EF-C49559DD6B78}
+	EndGlobalSection
+EndGlobal
